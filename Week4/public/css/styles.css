@@ -11,7 +11,7 @@
   header {
     height: 50px;
     width: 100%;
-    background-color: lightgrey;
+    background-color:lavender;
   }
   
   li {
@@ -25,7 +25,10 @@
   }
   
   h2 {
-    padding-bottom: 20px;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 300%;
+    padding-bottom: 10px;
   }
   
   footer {
