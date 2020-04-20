@@ -1,0 +1,18 @@
+.item-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.item-checkbox {
+  width: 25px;
+  display: flex;
+}
+
+.item-name {
+  width:  200px;
+}
+.item-status {
+  width: 200px;
+}
